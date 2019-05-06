@@ -1,4 +1,4 @@
-Git is a distributed version control system
+我们的国家是这个样子的Git is a distributed version control system
 Git is free software distributed under the GPL
 Git is very good
 Git has a mutable index called stage
